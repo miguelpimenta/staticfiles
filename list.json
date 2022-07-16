@@ -1,0 +1,22 @@
+{
+  "Plugins": [
+    {
+      "Id": 1,
+      "Name": "Counter",
+      "Description": "Counter",
+      "Url": "http://127.0.0.1:8080/CounterPlugin.1.0.0.nupkg"
+    },
+    {
+      "Id": 2,
+      "Name": "FetchData",
+      "Description": "FetchData",
+      "Url": "http://127.0.0.1:8080/FetchDataPlugin.1.0.0.nupkg"
+    },
+    {
+      "Id": 3,
+      "Name": "RazorClassLibrary3",
+      "Description": "RazorClassLibrary3",
+      "Url": "http://127.0.0.1:8080/RazorClassLibrary3.1.0.0.nupkg"
+    }
+  ]
+}
